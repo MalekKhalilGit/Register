@@ -1,6 +1,5 @@
 package com.example.registrationlogin.web;
 
-import com.example.registrationlogin.model.User;
 import com.example.registrationlogin.service.UserService;
 import com.example.registrationlogin.web.dto.UserRegistrationDto;
 import org.springframework.stereotype.Controller;
